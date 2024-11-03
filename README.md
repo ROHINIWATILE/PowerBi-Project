@@ -12,8 +12,8 @@ The owner wants to create annual sales report in the year 2020. So that, the own
 
 
 #OWNER'S REQUIREMENT-
+![REQUIREMENT](https://github.com/user-attachments/assets/b47c0b33-56f7-42d5-a53f-e9a5cd538ceb)
 
-<a href="https://github.com/ROHINIWATILE/PowerBi-Project/blob/main/REQUIREMENT.png">
 
 #DASHBOARD -
 
