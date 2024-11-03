@@ -6,8 +6,8 @@ PROJECT OBJECTIVE-
 
 The owner wants to create annual sales report in the year 2020. So that, the owner can understand the sales over the state and region in the upcoming year.
 
-# DATASET
+DATASET
 https://github.com/ROHINIWATILE/PowerBi-Project/blob/main/mini_project_dataset.xlsx
 
-# OWNER'S REQUIREMENT
- https://github.com/ROHINIWATILE/PowerBi-Project/blob/main/mini_project_dataset.xlsx
+OWNER'S REQUIREMENT
+https://github.com/ROHINIWATILE/PowerBi-Project/blob/main/REQUIREMENT.png
