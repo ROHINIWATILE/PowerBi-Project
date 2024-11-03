@@ -22,8 +22,11 @@ DASHBOARD -
 PROJECT INSIGHTS -
 
 -The sale is highest in the last month of the year.
+
 -the highest sale is at the weekends.
+
 -The west region(62%) is more likely to buy product as compared to south region.
+
 -nearly 90% of the product are delivered.
 
 
