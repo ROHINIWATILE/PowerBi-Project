@@ -8,7 +8,7 @@ The owner wants to create annual sales report in the year 2020. So that, the own
 
 #DATASET -
 
-<a href= "https://github.com/ROHINIWATILE/PowerBi-Project/blob/main/mini_project_dataset.xlsx">
+<a href= "https://github.com/ROHINIWATILE/PowerBi-Project/blob/main/mini_project_dataset.xlsx">dataset
 
 
 #OWNER'S REQUIREMENT-
